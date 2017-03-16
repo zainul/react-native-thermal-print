@@ -1,0 +1,19 @@
+{
+  "name": "react-native-thermal-printer",
+  "version": "0.0.1",
+  "author": "Zainul Masadi",
+  "private": false,
+  "license": "MIT",
+  "keywords": [
+    "react-native",
+    "android",
+    "library"
+  ],
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.38.0"
+  }
+}
